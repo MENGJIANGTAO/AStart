@@ -1,0 +1,14 @@
+<Solution>
+  <PropertyGroup Name="AStart" Version="2.3.0.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <TmxFile Name="map.tmx" />
+        <TmxFile Name="map2.tmx" />
+        <Project Name="fightScene.csd" Type="Scene" />
+        <Image Name="fightbackground.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
